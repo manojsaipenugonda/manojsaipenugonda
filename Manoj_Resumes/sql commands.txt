@@ -1,0 +1,6 @@
+MySQL version: mysql --version
+Go to MySQL in cmd prompt:mysql -u root -p --port=3310
+To see all databases - show databases;
+To create a new database - create database manojdb;
+To drop or delete a database - drop database manojdb;
+
